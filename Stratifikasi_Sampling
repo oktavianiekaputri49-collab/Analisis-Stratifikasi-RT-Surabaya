@@ -1,0 +1,54 @@
+📊 Analisis Stratifikasi Rumah Tangga Kota Surabaya
+Deskripsi
+Project ini membahas analisis stratifikasi rumah tangga di Kota Surabaya berdasarkan data kecamatan dan kelurahan untuk mendukung proses sampling dan perancangan survei statistik.
+Data digunakan untuk melihat distribusi rumah tangga pada beberapa wilayah Surabaya serta membantu pembentukan strata dalam pengambilan sampel.
+
+Data
+Data terdiri dari:
+Wilayah Surabaya
+Kecamatan
+Kelurahan
+Jumlah rumah tangga (RT)
+Contoh Data
+Wilayah	Kecamatan	Kelurahan	Total RT
+Selatan	Dukuh Pakis	Dukuh Kupang	5,194
+Selatan	Gayungan	Ketintang	5,127
+Selatan	Sawahan	Putat Jaya	14,716
+Timur	Gubeng	Airlangga	7,128
+Utara	Semampir	Wonokusumo	22,042
+Total Populasi
+N=943,663
+
+Analisis yang Dilakukan
+1️Pengelompokan Wilayah
+Data dikelompokkan berdasarkan:
+Surabaya Selatan
+Surabaya Timur
+Surabaya Utara
+
+Analisis Distribusi
+Dilakukan analisis jumlah rumah tangga pada tiap kecamatan dan kelurahan untuk melihat persebaran populasi.
+
+Stratifikasi Populasi
+Wilayah digunakan sebagai dasar pembentukan strata dalam metode sampling statistik.
+
+Tujuan Project
+Memahami distribusi rumah tangga di Kota Surabaya
+Melakukan stratifikasi populasi
+Mendukung proses survey sampling
+Menerapkan pengolahan data statistik menggunakan Excel
+
+Insight
+Stratifikasi membantu proses pengambilan sampel menjadi lebih representatif karena populasi dibagi berdasarkan karakteristik wilayah tertentu.
+Dengan metode ini, analisis statistik dapat memberikan estimasi yang lebih baik terhadap kondisi populasi sebenarnya.
+
+Tools
+Microsoft Excel
+Statistik Deskriptif
+Survey Sampling
+Stratified Sampling
+
+Penutup
+Project ini merupakan implementasi dasar statistik sampling dan analisis distribusi populasi menggunakan data rumah tangga Kota Surabaya untuk mendukung proses survei yang lebih terstruktur dan representatif.
+
+#Statistika #Sampling #Survey #DataAnalysis #Excel #Statistics #SamplingMethod
